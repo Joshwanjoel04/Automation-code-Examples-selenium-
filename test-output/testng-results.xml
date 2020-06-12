@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58802" started-at="2020-06-10T10:03:04 PDT" finished-at="2020-06-10T10:04:03 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58802" started-at="2020-06-10T10:03:04 PDT" finished-at="2020-06-10T10:04:03 PDT">
+      <class name="com.webpageAutomation.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.webpageAutomation.qa.testcases.HomePageTest@9a7504c]" name="setup" is-config="true" duration-ms="19059" started-at="2020-06-10T10:03:04 PDT" finished-at="2020-06-10T10:03:23 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectItemfromList()[pri:0, instance:com.webpageAutomation.qa.testcases.HomePageTest@9a7504c]" name="selectItemfromList" duration-ms="38797" started-at="2020-06-10T10:03:23 PDT" finished-at="2020-06-10T10:04:02 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItemfromList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webpageAutomation.qa.testcases.HomePageTest@9a7504c]" name="tearDown" is-config="true" duration-ms="906" started-at="2020-06-10T10:04:02 PDT" finished-at="2020-06-10T10:04:03 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webpageAutomation.qa.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
