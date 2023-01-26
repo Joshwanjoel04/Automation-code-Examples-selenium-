@@ -51,7 +51,7 @@ public class TestBase {
 			options.addArguments("--disable-notifications");
 			
 
-			System.setProperty("webdriver.chrome.driver","D:\\Selenium Softwares\\selenium_Work_Space\\WebApplicationAutomation\\Drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver",directory+"\\Drivers\\chromedriver.exe");
 			driver = new ChromeDriver(options);
 
 		} else if (browserName.equals("firefox")) {
