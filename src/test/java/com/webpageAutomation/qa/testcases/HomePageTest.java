@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import com.webpageAutomation.qa.base.TestBase;
 import com.webpageAutomation.qa.pages.Homepage;
 /*
- Author :josh1 
+ Author :joshwan Joel Fernandes
  * 
  * 
  */
