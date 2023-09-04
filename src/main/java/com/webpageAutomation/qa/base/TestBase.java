@@ -15,7 +15,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import com.webpageAutomation.qa.util.TestUtil;
 /*
  * 
- Author josh1
+ Author Joshwan Joel Fernandes
  * 
  * 
  * */
