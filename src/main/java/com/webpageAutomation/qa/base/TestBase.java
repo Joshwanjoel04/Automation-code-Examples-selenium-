@@ -34,7 +34,7 @@ public class TestBase {
 			prop = new Properties();
 //			FileInputStream ip = new FileInputStream(
 //					System.getProperty("user.dir")+ "\\src\\main\\java\\com\\webpageAutomation\\qa\\config\\config.properties");
-			FileInputStream ip = new FileInputStream("D:\\Selenium Softwares\\selenium_Work_Space\\WebApplicationAutomation\\src\\main\\java\\com\\webpageAutomation\\qa\\config\\config.properties");
+			
 
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
